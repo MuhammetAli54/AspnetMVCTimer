@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspnetMVCTimer", "AspnetMVCTimer\AspnetMVCTimer.csproj", "{910685EA-DE27-4838-9C88-EE5843F2FE40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{910685EA-DE27-4838-9C88-EE5843F2FE40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910685EA-DE27-4838-9C88-EE5843F2FE40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910685EA-DE27-4838-9C88-EE5843F2FE40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910685EA-DE27-4838-9C88-EE5843F2FE40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0981EA56-DE14-4602-AC53-04A7C82165F4}
+	EndGlobalSection
+EndGlobal
